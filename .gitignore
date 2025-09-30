@@ -1,0 +1,21 @@
+# # ========================
+# # Node / React frontend
+# # ========================
+# # dependencies
+node_modules/
+# # build outputs
+build/
+dist/
+# debug logs
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+
+# ========================
+# .NET backend
+# ========================
+# Build results
+bin/
+obj/
+
